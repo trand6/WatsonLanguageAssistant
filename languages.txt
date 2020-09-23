@@ -1,0 +1,5 @@
+Voices:
+en-US_AllisonV3Voice
+zh-CN_LiNaVoice
+Translations:
+en-zh-TW - English to Chinese
